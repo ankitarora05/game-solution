@@ -1,4 +1,5 @@
-# game-solution
-simple guess game in vanilla js
+# tiles-guess-game
+
+simple guess game in javascript
 
 [Play](https://incandescent-bombolone-003fef.netlify.app/)
